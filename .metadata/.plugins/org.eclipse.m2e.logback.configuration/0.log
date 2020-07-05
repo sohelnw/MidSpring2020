@@ -1442,3 +1442,6 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2020-07-05 09:07:51,500 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sohel\eclipse-workspace\Spring2020Selenium\crm\src\main\resources
 2020-07-05 09:07:51,501 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-05 09:07:51,502 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sohel\eclipse-workspace\Spring2020Selenium\crm\src\test\resources
+2020-07-05 13:52:18,334 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 13:52:18,954 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Sohel\eclipse-workspace\Spring2020Selenium\Session2\src\main\resources
+2020-07-05 13:52:18,958 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
